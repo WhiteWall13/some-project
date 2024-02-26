@@ -1,0 +1,6 @@
+
+# Fichiers de configuration sensibles
+.env
+config/secrets.yml
+
+# Ajout d'autres fichiers ou répertoires (build, cache, etc.)
